@@ -1,0 +1,165 @@
+#contact_info{
+    background-color: #63AA05;
+    color:white;
+    font-size: 1vw;
+   
+}
+#user_reviews{
+    background-color: red;
+    color:white;
+    font-size: 1vw;
+    margin-right: 0.6vw;
+}
+.category_div{
+    border-bottom: 1px solid grey;
+    cursor: pointer;
+}
+#all_product{
+    color:black;
+    font-size: 1.3vw;
+    font-weight: bold;
+}
+#fresh_fruits{
+    color:black;
+    font-size: 1.3vw;
+    font-weight: bold;
+}
+#fresh_vegetables{
+    color:black;
+    font-size: 1.3vw;
+    font-weight: bold;
+}
+#dry_fruits{
+    color:black;
+    font-size: 1.3vw;
+    font-weight: bold;
+}
+#non_veg{
+    color:black;
+    font-size: 1.3vw;
+    font-weight: bold;
+}
+.product_sub1{
+    padding-left: 1vw;
+    width: 23vw;
+    border-right: 1px solid grey;
+}
+.rating_para{
+    font-size: 1.3vw;
+    margin-left: 5vw;
+}
+#rating_stars{
+  margin-left: 5vw;
+}
+.product_main{
+    display: flex;
+}
+#banner{
+    width: 72vw;
+}
+.span_timing{
+    color:#618007;
+    font-size: 1.3vw;
+}
+.span_store_close{
+    color:white;
+    background-color: red;;
+    padding: 0.3vw;
+}
+.timing_div{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+    margin-bottom: 0.4vw;
+    align-items: center;
+}
+.product_display_div{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.product_display_div > div {
+    border: 1px solid rgba(200, 200, 200, 0.8);;
+    text-align: center;
+  }
+#product_img{
+    width: 17vw;
+} 
+.discount_para{
+    padding-left: 1vw;
+    position: absolute;
+    color: #51aa1b;
+    font-weight: bold;
+    font-size: 1.3vw;
+}
+.product_name_para{
+    margin-top: 0.2vw;
+    font-weight: bold;
+    font-size: 1.3vw;
+    color: #666;
+}
+.span_quantity{
+    color: #e2ac6b;
+    font-size: 1.3vw;
+    border: 1.5px solid #fbd6a7;
+    text-align: center;
+    margin-right: 0.6vw;
+    font-weight: bold;
+    padding: 0.6vw;
+}
+.off_price {
+    color: #c9141a;
+    text-decoration: line-through;
+    margin-right: 0.4vw;
+    font-size: 1.3vw;
+}
+.sale_price {
+    color: #6a8a0a;
+    font-size: 1.5vw;
+}
+#add_to_cart_btn{
+    background-color: #F57900;
+    color: wheat;
+    font-weight: bold;
+    font-size: 1.1vw;
+}
+.product_sub2{
+    padding-left: 1vw;
+    padding-top: 1vw;
+}
+#my_offers{
+    background-color:#618007;
+    font-size: 1.1vw;
+    padding: 0.4vw;
+    margin-bottom: 0.3vw;
+}
+#offer_img{
+    width:40vw;
+}
+.categories_div{
+    margin-top: 0.5vw;
+    z-index: 1;
+    position:sticky;
+    top: 6vw;
+}
+.veg_express{
+    text-align: center;
+    font-size: 1.5vw;
+}
+#rating_stars{  
+    font-size: 1.5vw;
+}
+.span_store_close{
+    font-size: 1.2vw;
+}
+.span_timing1{
+    font-size: 1.2vw;
+    color:black;
+}
+#cart_btn{
+    font-size: 2vw;
+    padding: 0.3vw;
+}
+.cart_btn_div{
+    margin-top: 2vw;
+    margin-left: 5vw;
+}
